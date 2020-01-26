@@ -15,7 +15,7 @@
 <p class="has-line-data" data-line-start="13" data-line-end="15">下载链接：<br>
 <a href="https://pan.baidu.com/s/1Bg67W19i55bsZzcOVb8DTQ">https://pan.baidu.com/s/1Bg67W19i55bsZzcOVb8DTQ</a> 提取码：z5cu</p>
 <p class="has-line-data" data-line-start="16" data-line-end="17">使用方法：</p>
-<h6 class="code-line" data-line-start=17 data-line-end=18 ><a id="_httpsgithubcomfeelbetterhuanvguideline_cn__17"></a>使用本整合的必需条件为拥有原版游戏并完成入门指南，地址 <a href="https://github.com/feelbetterhua/nvguideline_cn" title="现代化的新维加斯入门指南">现代化的新维加斯入门指南</a></h6>
+<h5 class="code-line" data-line-start=17 data-line-end=18 ><a id="_httpsgithubcomfeelbetterhuanvguideline_cn__17"></a>使用本整合的必需条件为拥有原版游戏并完成入门指南，地址 <a href="https://github.com/feelbetterhua/nvguideline_cn" title="现代化的新维加斯入门指南">现代化的新维加斯入门指南</a></h5>
 <ul>
 <li class="has-line-data" data-line-start="18" data-line-end="20">入门指南中安装了必需的前置mod，强烈推荐使用完整版，当然只求方便简化版。</li>
 </ul>
